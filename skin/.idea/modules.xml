@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../mysite/.idea/mysite.iml" filepath="$PROJECT_DIR$/../mysite/.idea/mysite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/skin.iml" filepath="$PROJECT_DIR$/.idea/skin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zqxt_views/.idea/zqxt_views.iml" filepath="$PROJECT_DIR$/../zqxt_views/.idea/zqxt_views.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/新建文件夹/.idea/新建文件夹.iml" filepath="$USER_HOME$/Desktop/新建文件夹/.idea/新建文件夹.iml" />
+    </modules>
+  </component>
+</project>
